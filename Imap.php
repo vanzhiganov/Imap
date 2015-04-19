@@ -1,4 +1,4 @@
-<?
+<?php
 /**
  * Copyright (C) 2011 by Josh Grochowski (josh[dot]kastang[at]gmail[dot]com)
  *

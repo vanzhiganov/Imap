@@ -1,4 +1,4 @@
-<?
+<?php
 /**
  * This script provides a short example how to use the Imap Wrapper
  * class. 

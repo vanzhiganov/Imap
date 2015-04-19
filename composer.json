@@ -1,9 +1,9 @@
 {
-    "name": "vanzhiganov/Imap",
+    "name": "vanzhiganov/imap",
     "type": "library",
     "description": "PHP Wrapper class for frequently used php-imap functions.",
     "keywords": ["imap"],
-    "homepage": "http://github.com/vanzhiganov/Imap",
+    "homepage": "http://github.com/vanzhiganov/imap",
     "license": "MIT",
     "authors": [
         {
